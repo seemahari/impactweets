@@ -1,0 +1,3 @@
+please find the java files in the download section
+GetFriendIds.java gets all the users in a users friends network
+GetConversations.java gets all conversations ordered by replies.
